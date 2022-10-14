@@ -1,3 +1,3 @@
-# Git and GitHub course
+# Git and GitHub practice
 
-Hello evetobody!
+Hello everybody! It's a testing repository :)
